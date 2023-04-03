@@ -1,0 +1,125 @@
+body{
+   padding-top: 20px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section{
+    background-color: #00abeea2;
+    border-radius: 15px;
+}
+
+.btn-outline-secondary{
+    background-color: #3366BB;
+    color: aliceblue;
+}
+
+.card-body{
+    background-color: rgba(192, 196, 197, 0.733);
+  
+}
+
+/*
+.btn-ins{
+    font-size: 18px;
+    background:#C13584;
+    padding: 11px 20px; 
+    display: inline-block;
+    margin:0 5px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 9px;
+    color: aliceblue;
+}
+
+.btn-fac{
+    font-size: 18px;
+    background:#3b5998;
+    padding: 11px 20px; 
+    display: inline-block;
+    margin:0 5px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 9px;
+    color: aliceblue;
+}
+
+.btn-tel{
+    font-size: 18px;
+    background:#0088cc;
+    padding: 11px 20px; 
+    display: inline-block;
+    margin:0 5px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 9px;
+    color: aliceblue;
+}
+
+.btn-twi{
+    font-size: 18px;
+    background:#00acee;
+    padding: 11px 20px; 
+    display: inline-block;
+    margin:0 5px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 9px;
+    color: aliceblue;
+}
+
+.btn-tik{
+    font-size: 18px;
+    background:#0a0a0a;
+    padding: 11px 20px; 
+    display: inline-block;
+    margin:0 5px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 9px;
+    color: aliceblue;
+}
+
+*/
+hr.linea-head{
+    color: blue;
+    box-shadow: 5px 3px;
+}
+
+svg{
+    background-color: #C13584;
+}
+/*<div class="card shadow-sm">
+<rect width="100%" height="100%" fill="#55595c"></rect>
+
+*/
+
+.card-text{
+    font-size: 15px;
+}
+
+.col{
+    font-size: 22px;
+    align-items: center;
+}
+
+text{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
